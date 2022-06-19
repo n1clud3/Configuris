@@ -17,7 +17,7 @@ A collection of parsing libraries combined into one thing for configuration purp
 
 ## Examples
 
-### Read data from "settings.toml" file
+Read data from "settings.toml" file:
 
 ```python
 
@@ -32,7 +32,7 @@ print(settings.data["info"]) # get our data from data property
 
 `I like Configuris!`
 
-### Write data to "config.yml" file
+Write data to "config.yml" file:
 
 ```python
 from configuris import Configuris
