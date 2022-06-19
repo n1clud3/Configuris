@@ -15,6 +15,10 @@ A collection of parsing libraries combined into one thing for configuration purp
   - Methods for writing and reading file
 - Only one property to use your configuration!
 
+## Install
+
+`pip install configuris`
+
 ## Examples
 
 Read data from "settings.toml" file:
